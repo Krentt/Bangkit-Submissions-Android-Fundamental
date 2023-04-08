@@ -63,7 +63,7 @@
 
 This is my submission on learning Dicoding Android Fundamental. I learnt many things such as Fragment, Navigation, Background Thread dan Networking, and Android Architecture Component. I am so proud of myself because I finished this course. Furthermore, I got perfect score on the exam and 4 stars on the project.
 
-This project is simple Github users app. Users could search based on github username and then see the details of the users. Detail of the user include information such as followers, following, and username. Also, there's feature for adding a favorite user. This app use github API to get list all users. Also this app implementing Data Room for favorite users. Nevertheless, users could change the theme into dark theme for better experience. 
+This project is simple Github users app. Users could search based on github username and then see the details of the users. Detail of the user include information such as followers, following, and username. Also, there's feature for adding a favorite user. This app use github API to get list all users. Also this app implementing Data Room for favorite users. Furthermore, users could change the theme into dark theme for better experience. 
 
 [My Certificate on Android Fundamental](https://www.dicoding.com/certificates/1RXY6N6MMZVM)
 
